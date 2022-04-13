@@ -1,4 +1,7 @@
-# Test
+# Test Angular Framework
+
+I was just testing the Angular Framework :)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
